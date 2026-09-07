@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.bak
+*.zip
+*.tar*
+node_modules/
+_private/
