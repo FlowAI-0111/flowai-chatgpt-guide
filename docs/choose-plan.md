@@ -1,4 +1,4 @@
-# ChatGPT Plus 和 Pro 怎么选？先看使用需求与额度
+# ChatGPT Plus/Pro会员怎么选？套餐对比与Codex使用说明
 
 [返回指南首页](../README.md) · 内容核对：2026-09-07
 
