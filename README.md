@@ -16,7 +16,7 @@
 | 比较微信、支付宝、信用卡、PayPal、App Store 礼品卡 | [ChatGPT 充值方法与支付方式比较](docs/payment-methods.md) |
 | 想让朋友帮忙付费，或给别人买会员 | [朋友代付、礼品卡与代充服务怎么选](docs/friend-payment.md) |
 | 准备购买或续费 Pro，不清楚 Pro5x、200、500 的区别 | [ChatGPT Pro 充值与续费指南](docs/pro-recharge.md) |
-| 想用 Codex，不确定买会员还是充值 API | [ChatGPT Plus、Codex 与 API 计费区别](docs/codex-and-chatgpt.md) |
+| 已经有 Plus，Codex 还要单独付费吗？ | [Codex 订阅额度、额外 credits 与 API 计费区别](docs/codex-and-chatgpt.md#已经有-plus还要再买-codex-订阅吗) |
 | 已付款，找不到订单、兑换码或发票入口 | [游客查单、会员优惠与企业开票](docs/orders-and-invoices.md) |
 
 ## 人民币代充：怎样给自己的 ChatGPT 账号开通？

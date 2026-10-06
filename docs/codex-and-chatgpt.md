@@ -1,8 +1,28 @@
-# ChatGPT Plus 和 Codex 是什么关系？会员、模型与 API 计费怎么分
+# Codex 要单独付费吗？ChatGPT Plus / Pro 订阅与 API 计费区别
 
-[返回指南首页](../README.md) · 内容核对：2026-10-04
+[返回指南首页](../README.md) · 内容核对：2026-10-06
 
 想用 Codex 写代码，应该买 ChatGPT Plus / Pro，还是充值 API？先看正在使用的工具如何登录，再核对对应的套餐权益和计费方式。**订阅会员、可用模型和 API 余额不是同一个概念。**
+
+Codex 是 OpenAI 的开发助手，可以在已授权的项目中读代码、修改文件和运行任务。它的使用入口与普通聊天不同，先确认使用的是哪种登录方式。
+
+## 已经有 Plus，还要再买 Codex 订阅吗？
+
+**用同一个 ChatGPT 账号登录，可以使用 Plus / Pro 包含的 Codex 额度，无需为了开始使用再购买一份独立 Codex 月订阅。**
+
+但这不等于无限使用，也不等于任何情况下都没有额外费用：
+
+- **套餐包含额度：** 随套餐、模型和任务变化，按账号当前用量与恢复时间核对。
+- **额外 credits：** 符合条件的 Plus / Pro 用户可以另购额度继续使用，会有额外支出。
+- **API Key：** 按 OpenAI API 独立计费，Plus / Pro 不会给 API 账户充值。
+
+Free / Go 也有官方公布的 Codex 入口，但开放范围和限制不同；不要据此理解为所有客户端、模型都可用。详见[官方套餐说明](https://learn.chatgpt.com/docs/pricing)。
+
+## Codex 额度用完，必须升级 Pro 吗？
+
+先检查用量提示、恢复时间和真实任务需求。等额度恢复、在支持的情况下购买额外 credits，或比较更高套餐，都是需要按自己情况判断的选择。换模型、缩小任务可能节省用量，但不能保证一定够用。
+
+不要用 API 单价换算会员能完成多少任务，也不要把网上某次实测次数当成所有账号的固定额度。需要入口和账号核对步骤，可以看[商城 Codex 订阅与使用指南](https://ai0111.com/guides/codex-with-chatgpt-plus)。
 
 ## ChatGPT 登录和 API Key 登录有什么区别？
 
@@ -54,6 +74,6 @@ Plus / Pro 是套餐；Astra、Sol、Terra、Luna 等是模型家族名称。不
 
 ## 来源与范围
 
-本文于2026年10月4日核对 [OpenAI 套餐](https://learn.chatgpt.com/docs/pricing)、[认证](https://learn.chatgpt.com/docs/auth)和[模型说明](https://learn.chatgpt.com/docs/models)。实际权益以对应产品和账号显示为准，本文没有执行真实订阅、充值 API 或 Codex 用量测试。
+收费与登录说明于2026年10月6日核对 [OpenAI 套餐](https://learn.chatgpt.com/docs/pricing)和[认证说明](https://learn.chatgpt.com/docs/auth)；模型入口部分于10月4日核对[官方模型说明](https://learn.chatgpt.com/docs/models)。实际权益以对应产品和账号显示为准，本文没有执行真实订阅、充值 API 或 Codex 用量测试。
 
 FlowAI 商品入口为自营服务示例；已有订单问题请用[查单与购买排查](buy-and-renew.md#已付款但还不能使用先确定停在哪一步)，不要在 GitHub 发布凭据或完整兑换码。
